@@ -1,0 +1,14 @@
+C:\Users\Leticia\source\repos\TreinamentoClasses\TreinamentoClasses\bin\Debug\net8.0\TreinamentoClasses.exe
+C:\Users\Leticia\source\repos\TreinamentoClasses\TreinamentoClasses\bin\Debug\net8.0\TreinamentoClasses.deps.json
+C:\Users\Leticia\source\repos\TreinamentoClasses\TreinamentoClasses\bin\Debug\net8.0\TreinamentoClasses.runtimeconfig.json
+C:\Users\Leticia\source\repos\TreinamentoClasses\TreinamentoClasses\bin\Debug\net8.0\TreinamentoClasses.dll
+C:\Users\Leticia\source\repos\TreinamentoClasses\TreinamentoClasses\bin\Debug\net8.0\TreinamentoClasses.pdb
+C:\Users\Leticia\source\repos\TreinamentoClasses\TreinamentoClasses\obj\Debug\net8.0\TreinamentoClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leticia\source\repos\TreinamentoClasses\TreinamentoClasses\obj\Debug\net8.0\TreinamentoClasses.AssemblyInfoInputs.cache
+C:\Users\Leticia\source\repos\TreinamentoClasses\TreinamentoClasses\obj\Debug\net8.0\TreinamentoClasses.AssemblyInfo.cs
+C:\Users\Leticia\source\repos\TreinamentoClasses\TreinamentoClasses\obj\Debug\net8.0\TreinamentoClasses.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\source\repos\TreinamentoClasses\TreinamentoClasses\obj\Debug\net8.0\TreinamentoClasses.dll
+C:\Users\Leticia\source\repos\TreinamentoClasses\TreinamentoClasses\obj\Debug\net8.0\refint\TreinamentoClasses.dll
+C:\Users\Leticia\source\repos\TreinamentoClasses\TreinamentoClasses\obj\Debug\net8.0\TreinamentoClasses.pdb
+C:\Users\Leticia\source\repos\TreinamentoClasses\TreinamentoClasses\obj\Debug\net8.0\TreinamentoClasses.genruntimeconfig.cache
+C:\Users\Leticia\source\repos\TreinamentoClasses\TreinamentoClasses\obj\Debug\net8.0\ref\TreinamentoClasses.dll
